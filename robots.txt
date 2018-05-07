@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://travelersfoodbox.000webhostapp.com/sitemap.xml
+Sitemap: http://travelersfoodbox.000webhostapp.com/image-sitemap.xml
