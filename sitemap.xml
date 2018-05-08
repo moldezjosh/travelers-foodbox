@@ -5,126 +5,129 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
-
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://travelersfoodbox.000webhostapp.com/recommendations/index.html</loc>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/about-us/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/top-5-most-popular-foods-in-china.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/europe/5-foods-of-scotland-that-will-tickle-your-taste-buds.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/top-5-foods-you-should-try-if-youre-in-india.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/australia/5-new-zealand-foods-that-you-and-kiwis-will-enjoy.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/europe/top-5-traditional-greek-food.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/5-heavenly-thailand-cuisines-that-will-change-your-life.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/australia/five-iconic-australian-foods.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/south-america/5-delicious-foods-you-should-eat-in-mexico.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/europe/5-dishes-you-dont-wanna-miss-when-visiting-germany.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/europe/top-5-most-iconic-foods-in-france.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/europe/italys-top-5-exquisite-loved-and-delicious-dishes.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/delicious-and-artistic-dishes-anybody-should-try-in-japan.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/5-tangy-and-savory-vietnam-foods-you-need-to-try.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/north-america/top-5-must-try-american-foods.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/mouth-drooling-filipino-dishes-anybody-should-at-least-try.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/asia/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/australia/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/europe/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/north-america/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://travelersfoodbox.000webhostapp.com/categories/south-america/index.html</loc>
-  <lastmod>2018-04-30T06:53:38+00:00</lastmod>
+  <lastmod>2018-05-08T10:24:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
