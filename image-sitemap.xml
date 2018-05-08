@@ -128,6 +128,15 @@
             <image:loc>http://travelersfoodbox.000webhostapp.com/img/logo.png</image:loc>
         </image:image>
         <image:image>
+            <image:loc>http://travelersfoodbox.000webhostapp.com/img/scotland-bangers-and-mash.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://travelersfoodbox.000webhostapp.com/img/mexico-cover.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://travelersfoodbox.000webhostapp.com/img/america-cover.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>http://travelersfoodbox.000webhostapp.com/img/germany-cover.jpg</image:loc>
         </image:image>
         <image:image>
@@ -789,54 +798,6 @@
         </image:image>
         <image:image>
             <image:loc>http://travelersfoodbox.000webhostapp.com/img/pho-vietnam-cover.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>http://travelersfoodbox.000webhostapp.com/categories/africa/index.html</loc>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/italy-cover.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/taco.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/scotland-bangers-and-mash.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/facebook-icon.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/instagram-icon.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/twitter-icon.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>http://travelersfoodbox.000webhostapp.com/categories/antarctica/index.html</loc>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/australia-cover-2.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/mexico-cover.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/chow-mein-china.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/facebook-icon.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/instagram-icon.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>http://travelersfoodbox.000webhostapp.com/img/twitter-icon.png</image:loc>
         </image:image>
     </url>
     <url>
